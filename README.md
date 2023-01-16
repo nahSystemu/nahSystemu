@@ -30,8 +30,8 @@ const alex = {
 
 const hardware = {
   monitors: [
-  	"BenQ EX2780Q 27-Inch QHD 144hz", 
-  	"BenQ EX2780Q 27-Inch QHD 144hz"
+		"BenQ EX2780Q 27-Inch QHD 144hz", 
+		"BenQ EX2780Q 27-Inch QHD 144hz"
       ],
   periferals: {
 		mouse: "Logitech G PRO X SUPERLIGHT",
