@@ -29,27 +29,30 @@ const alex = {
 }
 
 const hardware = {
-	monitors: ["BenQ EX2780Q 27-Inch QHD 144hz", "BenQ EX2780Q 27-Inch QHD 144hz"],
+	monitors: [
+		"BenQ EX2780Q 27-Inch QHD 144hz", 
+		"BenQ EX2780Q 27-Inch QHD 144hz"
+		],
 	periferals: {
-		mouse: "Logitech G PRO X SUPERLIGHT",
-		keyboard: "Keychron K8 Pro",
-		headphones: "Logitech G PRO X",
-		deskmat: "Logitech G840 XL"
+	    mouse: "Logitech G PRO X SUPERLIGHT",
+	    keyboard: "Keychron K8 Pro",
+	    headphones: "Logitech G PRO X",
+	    deskmat: "Logitech G840 XL"
 	},
 	audio: {
-		microphone: "Shure SM7B",,
-		preamp: "sE Electronics DM1 Dynamite",
-		audio_interface: "RØDECaster Pro"
+	    microphone: "Shure SM7B",,
+	    preamp: "sE Electronics DM1 Dynamite",
+	    audio_interface: "RØDECaster Pro"
 	},
 	specs: {
-		case: "NZXT H5 - Black",
-		motherboard: "ASUS ROG STRIX B550-F GAMING",
-		cpu: "AMD Ryzen 7 5800X3D",
-		cooler: "Corsair iCUE H150i PRO XT RGB",
-		gpu: "GigaByte AORUS GeForce RTX 3070 MASTER 8GB",
-		ram: "Corsair Vengeance LPX 32GB 2x16GB 3200MHz",
-		storage: ["Samsung 970 EVO Plus 2 TB", "Samsung 980 500 GB"],
-		pcu: "Thermaltake Toughpower GF1 PE 850W 80+ Gold"
+	    case: "NZXT H5 - Black",
+	    motherboard: "ASUS ROG STRIX B550-F GAMING",
+	    cpu: "AMD Ryzen 7 5800X3D",
+	    cooler: "Corsair iCUE H150i PRO XT RGB",
+	    gpu: "GigaByte AORUS GeForce RTX 3070 MASTER 8GB",
+	    ram: "Corsair Vengeance LPX 32GB 2x16GB 3200MHz",
+	    storage: ["Samsung 970 EVO Plus 2 TB", "Samsung 980 500 GB"],
+	    pcu: "Thermaltake Toughpower GF1 PE 850W 80+ Gold"
 	}
 }
 ```
