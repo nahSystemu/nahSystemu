@@ -17,9 +17,9 @@
 
 ```javascript
 const alex = {
-  pronouns: "he" | "him",
+  lvl: 25
   code: [Javascript, Typescript, HTML, CSS, Python, Go, Bash],
-  tools: [Node, React, Nextjs, Flask, Tailwind, Docker],
+  tools: [Node, React, Nextjs, Svelte, Flask, Tailwind, Docker],
   techCommunities: {
 		community:	"Revision",
 		owner:		"Xander/h3r0",
