@@ -17,7 +17,7 @@
 
 ```javascript
 const alex = {
-  lvl: 25
+  lvl: 25,
   code: [Javascript, Typescript, HTML, CSS, Python, Go, Bash],
   tools: [Node, React, Nextjs, Svelte, Flask, Tailwind, Docker],
   techCommunities: {
