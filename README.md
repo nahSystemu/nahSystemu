@@ -58,8 +58,8 @@ const hardware = {
 ```
 <br>
 <br>
-<img align="right" src="https://morfixx-stats.vercel.app/api/top-langs/?username=nahsystemu&theme=gotham">
+<img align="right" src="https://morfixx-stats.vercel.app/api/top-langs/?username=nahsystemu&bg_color=0a0e12&border_color=30363d&theme=gotham">
 <br>
 <br>
-<img align="left" src="https://morfixx-stats.vercel.app/api?username=nahsystemu&show_icons=true&theme=gotham">
+<img align="left" src="https://morfixx-stats.vercel.app/api?username=nahsystemu&bg_color=0a0e12&border_color=30363d&show_icons=true&theme=gotham">
 <br>
