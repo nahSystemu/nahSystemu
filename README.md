@@ -15,8 +15,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)<br>
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)<br>
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
