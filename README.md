@@ -7,25 +7,48 @@
 	</em>
 </p>
 
+###### Stuff I know/use...
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)<br>
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
+![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)<br>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)<br>
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Portainer](https://img.shields.io/badge/-Portainer-05122A?style=flat&logo=portainer)
+![NGINX](https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=nginx)
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
+![Bitwarden](https://img.shields.io/badge/-Bitwarden-05122A?style=flat&logo=bitwarden)
 
-[![Twitch Status](https://img.shields.io/twitch/status/morfixx?color=8e42fe&label=MORFIXX&logo=twitch&logoColor=fff&style=for-the-badge)](https://twitch.tv/morfixx)
-[![Discord](https://img.shields.io/discord/619835916139364383?label=Revision%20&logo=discord&logoColor=fff&style=for-the-badge)](https://discord.gg/962y4pU)
-
-
-
-### A little more about me...  
+#### A little more about me...  
 
 ```javascript
 const alex = {
     lvl: 25,
-    code: [Javascript, Typescript, HTML, CSS, Python, Go, Bash],
-    tools: [Node, React, Nextjs, Svelte, Flask, Tailwind, Docker],
+    lang: ['en', 'ru'],
+    hobbies: ["cinema", "camping", "socialising", "extreme sports"],
     techCommunities: {
         community: "Revision",
         owner: "Xander/h3r0",
         developer: "h3r0/Stasium",
     },
-    hobbies: ["cinema", "camping", "socialising", "extreme sports"],
 };
 
 const hardware = {
