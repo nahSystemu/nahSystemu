@@ -2,7 +2,6 @@
 <img align='right' src="https://i.imgur.com/mBtjO7J.png" width="230">
 <p>
 	<em>
-	Staff, Website Maintainer @ <a href="https://revi.cc/">Revision</a><br>
 	Twitch Moderator for <a href="https://twitch.tv/fANDERCS/">fANDERCS</a> // <a href="https://twitch.tv/FourAJ/">FourAJ</a> // <a href="https://twitch.tv/ClearDesigns/">ClearDesigns</a><br>
 	</em>
 </p>
