@@ -41,12 +41,7 @@
 const alex = {
     lvl: 25,
     lang: ['en', 'ru'],
-    hobbies: ["cinema", "camping", "socialising", "extreme sports"],
-    techCommunities: {
-        community: "Revision",
-        owner: "Xander/h3r0",
-        developer: "h3r0/Stasium",
-    },
+    hobbies: ["cinema", "camping", "socialising", "extreme sports"]
 };
 
 const hardware = {
