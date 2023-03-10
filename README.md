@@ -63,9 +63,9 @@ const hardware = {
     specs: {
         case: "NZXT H5 - Black",
         motherboard: "ASUS ROG STRIX B550-F GAMING",
-        cpu: "AMD Ryzen 7 5800X3D",
-        cooler: "Corsair iCUE H150i PRO XT RGB",
-        gpu: "GigaByte AORUS GeForce RTX 3070 MASTER 8GB",
+        cpu: "AMD Ryzen 7 5700X",
+        cooler: "Noctua NH-D15",
+        gpu: "MSI GeForce RTX 3060",
         ram: "Corsair Vengeance LPX 32GB 2x16GB 3200MHz",
         storage: ["Samsung 970 EVO Plus 2 TB", "Samsung 980 500 GB"],
         pcu: "Thermaltake Toughpower GF1 PE 850W 80+ Gold",
