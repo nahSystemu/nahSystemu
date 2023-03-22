@@ -25,6 +25,7 @@
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)<br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)<br>
