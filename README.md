@@ -16,6 +16,7 @@
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)<br>
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Vite.js](https://img.shields.io/badge/-Vite.js-05122A?style=flat&logo=vite)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
 ![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)
