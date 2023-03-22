@@ -20,7 +20,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
 ![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)
-![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)<br>
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)<br>
