@@ -35,39 +35,41 @@
 #### A little more about me...  
 
 ```javascript
-const alex = {
-    lvl: 25,
-    lang: ['en', 'ru'],
-    hobbies: ["cinema", "camping", "socialising", "extreme sports"]
-};
+class Profile {
+	name = "Alex";
+	gender = "Male";
+	level = 25;
+	interests = ["Programming", "Gaming", "Sleeping"];
+	languages = {
+		primary: "English",
+		secondary: "Russian",
+	};
 
-const hardware = {
-    monitors: [
-        "BenQ EX2780Q 27-Inch QHD 144hz",
-        "BenQ EX2780Q 27-Inch QHD 144hz",
-    ],
-    periferals: {
-        mouse: "Logitech G PRO X SUPERLIGHT",
-        keyboard: "Keychron K8 Pro",
-        headphones: "Logitech G PRO X",
-        deskmat: "Logitech G840 XL",
-    },
-    audio: {
-        microphone: "Shure SM7B",
-        preamp: "sE Electronics DM1 Dynamite",
-        audio_interface: "RØDECaster Pro",
-    },
-    specs: {
-        case: "NZXT H5 - Black",
-        motherboard: "ASUS ROG STRIX B550-F GAMING",
-        cpu: "AMD Ryzen 7 5700X",
-        cooler: "Noctua NH-D15",
-        gpu: "MSI GeForce RTX 3060",
-        ram: "Corsair Vengeance LPX 32GB 2x16GB 3200MHz",
-        storage: ["Samsung 970 EVO Plus 2 TB", "Samsung 980 500 GB"],
-        pcu: "Thermaltake Toughpower GF1 PE 850W 80+ Gold",
-    },
-};
+	hardware = {
+		monitors: ["BenQ EX2780Q 27-Inch QHD 144hz", "BenQ EX2780Q 27-Inch QHD 144hz"],
+		peripherals: {
+			mouse: "Logitech G PRO X SUPERLIGHT",
+			keyboard: "Keychron K8 Pro",
+			headphones: "Logitech G PRO X",
+			deskmat: "Logitech G840 XL",
+		},
+		audio: {
+			microphone: "Shure SM7B",
+			preamp: "sE Electronics DM1 Dynamite",
+			audioInterface: "RØDECaster Pro",
+		},
+		specs: {
+			case: "NZXT H5 - Black",
+			motherboard: "ASUS ROG STRIX B550-F GAMING",
+			cpu: "AMD Ryzen 7 5700X",
+			cooler: "Noctua NH-D15",
+			gpu: "MSI GeForce RTX 3060",
+			ram: "Corsair Vengeance LPX 32GB 2x16GB 3200MHz",
+			storage: ["Samsung 970 EVO Plus 2 TB", "Samsung 980 500 GB"],
+			pcu: "Thermaltake Toughpower GF1 PE 850W 80+ Gold",
+		},
+	};
+}
 ```
 <br>
 <br>
