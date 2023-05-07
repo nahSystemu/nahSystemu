@@ -34,7 +34,7 @@
 
 #### A little more about me...  
 
-```javascript
+```typescript
 class Profile {
 	name = "Alex";
 	gender = "Male";
@@ -46,7 +46,10 @@ class Profile {
 	};
 
 	hardware = {
-		monitors: ["BenQ EX2780Q 27-Inch QHD 144hz", "BenQ EX2780Q 27-Inch QHD 144hz"],
+		monitors: [
+			"BenQ EX2780Q 27-Inch QHD 144hz",
+			"BenQ EX2780Q 27-Inch QHD 144hz"
+		],
 		peripherals: {
 			mouse: "Logitech G PRO X SUPERLIGHT",
 			keyboard: "Keychron K8 Pro",
