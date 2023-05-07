@@ -1,10 +1,5 @@
 <h1> Hey, I'm Alex! <img src="https://cdn.discordapp.com/emojis/950042987889561610.webp" width="40"></h1>
 <img align='right' src="https://i.imgur.com/mBtjO7J.png" width="230">
-<p>
-	<em>
-	Twitch Moderator for <a href="https://twitch.tv/fANDERCS/">fANDERCS</a> // <a href="https://twitch.tv/FourAJ/">FourAJ</a> // <a href="https://twitch.tv/ClearDesigns/">ClearDesigns</a><br>
-	</em>
-</p>
 
 ###### Stuff I know/use...
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
