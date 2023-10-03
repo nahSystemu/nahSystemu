@@ -62,7 +62,7 @@ class Profile {
 			audioInterface: "RØDECaster Pro",
 		},
 		specs: {
-			case: "NZXT H5 - Black",
+			case: "Fractal Design North Tempered Glass",
 			motherboard: "ASUS ROG STRIX B550-F GAMING",
 			cpu: "AMD Ryzen 7 5700X",
 			cooler: "Noctua NH-D15",
