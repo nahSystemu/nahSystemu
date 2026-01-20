@@ -36,55 +36,62 @@
 
 ```typescript
 class Profile {
-  name = "Alex";
-  gender = "Male";
-  level = 28;
-  interests = ["Programming", "Gaming", "Sleeping"];
-  languages = {
-    primary: "English",
-    secondary: "Russian",
-  };
+  public readonly name = "Alex";
+  public readonly gender = "Male";
+  public readonly level = 28;
+  public readonly interests = ["Programming", "Gaming", "Sleeping"];
 
-  dailyDrivers = {
-    laptop: "MacBook Pro M3 (2025)",
-    headphones: "Airpods Max 2",
-    keyboard: "Keychron K2 HE",
-    trackpad: "Apple Magic Trackpad",
-  };
+  public getLanguages() {
+    return {
+      primary: "English",
+      secondary: "Russian",
+    };
+  }
 
-  homeSetup = {
-    desk: {
-      type: "custom",
-      dimensions: "200cm x 80cm",
-      material: "American walnut",
-      heightRegulators: "electronic",
-    },
-    chair: "Herman Miller Cosm White/Mineral High Back Office Chair",
-    desktop: {
-      monitors: ["MSI G274QPX 240Hz", "MSI G272QPF E2 180Hz"],
-      peripherals: {
-        mouse: "Logitech G Pro X Superlight 2",
-        keyboard: "Lemokey P1 Pro",
-        streamDeck: "Elgato Stream Deck MK.2",
-        deskmat: "Dark Gray Fabric 1200x600mm (XXL)",
+  public getDailyDrivers() {
+    return {
+      laptop: "MacBook Pro M3 (2025)",
+      headphones: "Airpods Max 2",
+      keyboard: "Keychron K2 HE",
+      trackpad: "Apple Magic Trackpad",
+    };
+  }
+
+  public getHomeSetup() {
+    return {
+      desk: {
+        type: "custom",
+        dimensions: "200cm x 80cm",
+        material: "American walnut",
+        heightRegulators: "electronic",
       },
-      audio: {
-        microphone: "Shure SM7B",
-        audioInterface: "RØDECaster Duo",
-        headphones: "beyerdynamic DT 770 Pro (250 Ohm)",
+      chair: "Herman Miller Cosm White/Mineral High Back Office Chair",
+      desktop: {
+        monitors: ["MSI G274QPX 240Hz", "MSI G272QPF E2 180Hz"],
+        peripherals: {
+          mouse: "Logitech G Pro X Superlight 2",
+          keyboard: "Lemokey P1 Pro",
+          streamDeck: "Elgato Stream Deck MK.2",
+          deskmat: "Dark Gray Fabric 1200x600mm (XXL)",
+        },
+        audio: {
+          microphone: "Shure SM7B",
+          audioInterface: "RØDECaster Duo",
+          headphones: "beyerdynamic DT 770 Pro (250 Ohm)",
+        },
+        specs: {
+          case: "Fractal Design North Tempered Glass",
+          motherboard: "ASUS ROG STRIX B550-F GAMING",
+          cpu: "AMD Ryzen 7 5700X",
+          cooler: "Noctua NH-D15",
+          gpu: "MSI GeForce RTX 3060",
+          ram: "Corsair Vengeance LPX 32GB 2x16GB 3200MHz",
+          storage: ["Samsung 970 EVO Plus 2 TB", "Samsung 980 500 GB"],
+          pcu: "Thermaltake Toughpower GF1 PE 850W 80+ Gold",
+        },
       },
-      specs: {
-        case: "Fractal Design North Tempered Glass",
-        motherboard: "ASUS ROG STRIX B550-F GAMING",
-        cpu: "AMD Ryzen 7 5700X",
-        cooler: "Noctua NH-D15",
-        gpu: "MSI GeForce RTX 3060",
-        ram: "Corsair Vengeance LPX 32GB 2x16GB 3200MHz",
-        storage: ["Samsung 970 EVO Plus 2 TB", "Samsung 980 500 GB"],
-        pcu: "Thermaltake Toughpower GF1 PE 850W 80+ Gold",
-      },
-    },
-  };
+    };
+  }
 }
 ```
 <br>

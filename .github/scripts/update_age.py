@@ -25,7 +25,10 @@ def calculate_age(*, today: date, birth: BirthDate) -> int:
 
 
 def update_level_in_readme(readme_text: str, *, new_level: int) -> tuple[str, bool]:
-    pattern = re.compile(r"(\blevel\s*=\s*)(\d+)(\s*;)")
+    pattern = re.compile(
+        r"(^\s*(?:public\s+)?(?:readonly\s+)?level\s*=\s*)(\d+)(\s*;)",
+        re.MULTILINE,
+    )
 
     def replacer(match: re.Match[str]) -> str:
         return f"{match.group(1)}{new_level}{match.group(3)}"
@@ -47,7 +50,11 @@ def main() -> None:
     if not changed:
         # If level already matches, or pattern not found, keep workflow idempotent.
         # Still fail hard if we couldn't find the level assignment at all.
-        if re.search(r"\blevel\s*=\s*\d+\s*;", original) is None:
+        if re.search(
+            r"^\s*(?:public\s+)?(?:readonly\s+)?level\s*=\s*\d+\s*;",
+            original,
+            re.MULTILINE,
+        ) is None:
             raise SystemExit("Could not find a 'level = <number>;' assignment to update in README.md")
         return
 
