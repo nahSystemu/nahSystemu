@@ -38,7 +38,7 @@
 class Profile {
   name = "Alex";
   gender = "Male";
-  level = 25;
+  level = 28;
   interests = ["Programming", "Gaming", "Sleeping"];
   languages = {
     primary: "English",
