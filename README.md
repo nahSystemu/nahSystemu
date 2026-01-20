@@ -50,7 +50,7 @@ class Profile {
 
   public getDailyDrivers() {
     return {
-      laptop: "MacBook Pro M3 (2025)",
+      laptop: "MacBook Pro M3 (2023)",
       headphones: "Airpods Max 2",
       keyboard: "Keychron K2 HE",
       trackpad: "Apple Magic Trackpad",
