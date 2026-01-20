@@ -6,7 +6,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)<br>
@@ -32,46 +32,59 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
 ![Bitwarden](https://img.shields.io/badge/-Bitwarden-05122A?style=flat&logo=bitwarden)
 
-#### A little more about me...  
+#### A little more about me...
 
 ```typescript
 class Profile {
-	name = "Alex";
-	gender = "Male";
-	level = 25;
-	interests = ["Programming", "Gaming", "Sleeping"];
-	languages = {
-		primary: "English",
-		secondary: "Russian",
-	};
+  name = "Alex";
+  gender = "Male";
+  level = 25;
+  interests = ["Programming", "Gaming", "Sleeping"];
+  languages = {
+    primary: "English",
+    secondary: "Russian",
+  };
 
-	hardware = {
-		monitors: [
-			"BenQ EX2780Q 27-Inch QHD 144hz",
-			"BenQ EX2780Q 27-Inch QHD 144hz"
-		],
-		peripherals: {
-			mouse: "Logitech G PRO X SUPERLIGHT",
-			keyboard: "Keychron K8 Pro",
-			headphones: "Logitech G PRO X",
-			deskmat: "Logitech G840 XL",
-		},
-		audio: {
-			microphone: "Shure SM7B",
-			preamp: "sE Electronics DM1 Dynamite",
-			audioInterface: "RØDECaster Pro",
-		},
-		specs: {
-			case: "Fractal Design North Tempered Glass",
-			motherboard: "ASUS ROG STRIX B550-F GAMING",
-			cpu: "AMD Ryzen 7 5700X",
-			cooler: "Noctua NH-D15",
-			gpu: "MSI GeForce RTX 3060",
-			ram: "Corsair Vengeance LPX 32GB 2x16GB 3200MHz",
-			storage: ["Samsung 970 EVO Plus 2 TB", "Samsung 980 500 GB"],
-			pcu: "Thermaltake Toughpower GF1 PE 850W 80+ Gold",
-		},
-	};
+  dailyDrivers = {
+    laptop: "MacBook Pro M3 (2025)",
+    headphones: "Airpods Max 2",
+    keyboard: "Keychron K2 HE",
+    trackpad: "Apple Magic Trackpad",
+  };
+
+  homeSetup = {
+    desk: {
+      type: "custom",
+      dimensions: "200cm x 80cm",
+      material: "American walnut",
+      heightRegulators: "electronic",
+    },
+    chair: "Herman Miller Cosm White/Mineral High Back Office Chair",
+    desktop: {
+      monitors: ["MSI G274QPX 240Hz", "MSI G272QPF E2 180Hz"],
+      peripherals: {
+        mouse: "Logitech G Pro X Superlight 2",
+        keyboard: "Lemokey P1 Pro",
+        streamDeck: "Elgato Stream Deck MK.2",
+        deskmat: "Dark Gray Fabric 1200x600mm (XXL)",
+      },
+      audio: {
+        microphone: "Shure SM7B",
+        audioInterface: "RØDECaster Duo",
+        headphones: "beyerdynamic DT 770 Pro (250 Ohm)",
+      },
+      specs: {
+        case: "Fractal Design North Tempered Glass",
+        motherboard: "ASUS ROG STRIX B550-F GAMING",
+        cpu: "AMD Ryzen 7 5700X",
+        cooler: "Noctua NH-D15",
+        gpu: "MSI GeForce RTX 3060",
+        ram: "Corsair Vengeance LPX 32GB 2x16GB 3200MHz",
+        storage: ["Samsung 970 EVO Plus 2 TB", "Samsung 980 500 GB"],
+        pcu: "Thermaltake Toughpower GF1 PE 850W 80+ Gold",
+      },
+    },
+  };
 }
 ```
 <br>
